@@ -33,3 +33,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+## 初始化框架
+![Alt text](image.png)
+
+## 引入图标库
+npm i font-awesome
